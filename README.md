@@ -1,7 +1,12 @@
 <img src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" width="1000" height="400" margin="auto">
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Pawar</h1>
-<h3 align="justify">A passion for data science and a keen interest in leveraging data to derive meaningful insights. This repository serves as a portfolio of my data science projects,Use cases, showcasing my skills and capabilities as a budding data scientist.</h3>
+<h3 align="justify">A passion for data science and a keen interest in unlocking valuable insights from data. I'm enthusiastic about applying my analytical skills to real-world challenges, and I'm on a journey to become a proficient data scientist.
+
+
+During my academic journey, I've developed a solid foundation in data science methodologies, statistical analysis, and machine learning. I'm excited to embark on a career where I can contribute my skills to meaningful projects and continue to learn and grow in the dynamic field of data science.
+
+This profile serves my skills, and aspirations. Let's connect and explore how my passion for data can make a positive impact on your team or project!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d8250929ae54a18f7243a13d35f65f91de7dcdad18fba1d341621695d5460e9b/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavipawar2002&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavipawar2002" /> </p>
