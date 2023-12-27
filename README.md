@@ -1,7 +1,7 @@
 <img src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" width="1000" height="400" margin="auto">
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Pawar</h1>
-<h3 align="justify">A passion for data science and a keen interest in unlocking valuable insights from data. I'm enthusiastic about applying my analytical skills to real-world challenges, and I'm on a journey to become a proficient data scientist.
+<h3 align="justify">I'm passionate for data science and I have keen interest in unlocking valuable insights from data. I'm enthusiastic about applying my analytical skills to real-world challenges, and I'm on a journey to become a proficient data scientist.
 
 
 During my academic journey, I've developed a solid foundation in data science methodologies, statistical analysis, and machine learning. I'm excited to embark on a career where I can contribute my skills to meaningful projects and continue to learn and grow in the dynamic field of data science.
