@@ -9,9 +9,11 @@ During my academic journey, I've developed a solid foundation in data science me
 This profile serves my skills, and aspirations. Let's connect and explore how my passion for data can make a positive impact on your team or project!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d8250929ae54a18f7243a13d35f65f91de7dcdad18fba1d341621695d5460e9b/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavipawar2002&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavipawar2002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vaishnavipawar2002&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavipawar2002" /> 
+<img src="https://camo.githubusercontent.com/784c04274568eda6fc8c4a182279517f9a9ff956962f28e40b2ff81c3a456032/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747564656e742d436f6d7075746572253230456e67696e656572696e672d626c7565" alt="vaishnavipawar2002" />
+<img src="https://camo.githubusercontent.com/2759d389019433f0bacfce0ede37728e6d95aa4b6e36e49981ca798d4a57016e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466f6375732d44617461253230536369656e63652d677265656e" alt="vaishnavipawar2002"</p>
 
-- 🔭 I’m currently working on **Chatbot For Student**
+- 🔭 I’m currently working on **Chatbot For Student Using Rasa**
 
 - 📚💻🎓 **Computer Engineering Student at Sanjivani College of Engineering,Kopargaon**
   
