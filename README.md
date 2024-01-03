@@ -11,7 +11,10 @@ This profile serves my skills, and aspirations. Let's connect and explore how my
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavipawar2002&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavipawar2002" /> </p>
 
+- 🔭 I’m currently working on **Chatbot For Student**
 
+- 📚💻🎓 **Computer Engineering Student at Sanjivani College of Engineering,Kopargaon**
+  
 - 💬 Ask me about **Python,Data Science**
 
 - 📫 How to reach me **vaishnavipawar1102@gmail.com**
