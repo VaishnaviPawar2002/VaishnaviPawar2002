@@ -7,7 +7,7 @@
 During my academic journey, I've developed a solid foundation in data science methodologies, statistical analysis, and machine learning. I'm excited to embark on a career where I can contribute my skills to meaningful projects and continue to learn and grow in the dynamic field of data science.
 
 This profile serves my skills, and aspirations. Let's connect and explore how my passion for data can make a positive impact on your team or project!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaishnavipawar2002&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavipawar2002" /> 
 <img src="https://camo.githubusercontent.com/784c04274568eda6fc8c4a182279517f9a9ff956962f28e40b2ff81c3a456032/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747564656e742d436f6d7075746572253230456e67696e656572696e672d626c7565" alt="vaishnavipawar2002" />
